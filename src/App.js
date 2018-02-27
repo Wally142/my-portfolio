@@ -10,9 +10,10 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1> Welcome To My Portfolio! </h1>
+        <h2> Greg Wallerus </h2>
+        <p> I am a Full Stack Software Developer with a passion for learning. My main stack is the MEAN stack but I am currently learning React and Java to further enhance my skills. </p>
+        <p> Feel free to check out my LinkedIn or GitHub, or send me a message if you would like to connect! </p>
       </div>
     );
   }
