@@ -14,7 +14,7 @@ class App extends Component {
         <h2> Greg Wallerus </h2>
         <p> I am a Full Stack Software Developer with a passion for learning. My main stack is the MEAN stack but I am currently learning React and Java to further enhance my skills. </p>
         <p> Feel free to check out my LinkedIn or GitHub, or send me a message if you would like to connect! </p>
-        <img src="../images/Greg.jpg" />
+        <img src="./images/Greg.jpg" />
       </div>
     );
   }
