@@ -21,15 +21,15 @@ class App extends Component {
           <h2> Projects </h2>
         </div>
         <div>
-          <h3> Happier Hours </h3>
+          <h3>Happier Hours</h3>
           <img alt="Happier Hours" class="pic1" src="./images/listView.png" />
         </div>
         <div>
-          <h3> Grow North</h3>
+          <h3>Grow North</h3>
           <img alt="Grow North" class="pic1" src="./images/dashboard.png" />
         </div>
         <div>
-          <h3> Wedding Website</h3>
+          <h3>Wedding Website</h3>
           <img alt="My Wedding Page" class="pic1" src="./images/wedding.png" />
         </div>
       </div>
