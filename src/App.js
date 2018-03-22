@@ -20,16 +20,16 @@ class App extends Component {
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/Wally142"><img alt="GitHub" class="icon" src="./images/github.png" /></a>
           <h2> Projects </h2>
         </div>
-        <div>
-          <h3>Happier Hours</h3>
+        <div className="App">
+          <h3>Happier Hours<a target="_blank" rel="noopener noreferrer" href="https://solo-project.herokuapp.com/">HappierHours.com</a></h3>
           <img alt="Happier Hours" class="pic1" src="./images/listView.png" />
         </div>
-        <div>
-          <h3>Grow North</h3>
+        <div className="App">
+          <h3>Grow North<a target="_blank" rel="noopener noreferrer" href="https://grownorthdemo.herokuapp.com/">GrowNorthDemo.com</a></h3>
           <img alt="Grow North" class="pic1" src="./images/dashboard.png" />
         </div>
-        <div>
-          <h3>Wedding Website</h3>
+        <div className="App">
+          <h3>Wedding Website<a target="_blank" rel="noopener noreferrer" href="http://www.gregandivonnewedding.com/">GregAndIvonneWedding.com</a></h3>
           <img alt="My Wedding Page" class="pic1" src="./images/wedding.png" />
         </div>
       </div>
