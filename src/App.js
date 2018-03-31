@@ -11,7 +11,8 @@ class App extends Component {
           </header>
           <h1> Greg Wallerus </h1>
           <h3>Consultant at Gensis10</h3>
-          <p> I am a Full Stack Software Developer with a passion for learning. I primarily have worked with the MEAN stack but I am currently learning React and Java to further enhance my skills. </p>
+          <p> I am a Full Stack Software Developer with a passion for learning.</p>
+          <p>I primarily have worked with the MEAN stack but I am currently learning React and Java to further enhance my skills. </p>
           <p> Feel free to check out my LinkedIn or GitHub</p>
           <img alt="me" class="pic" src="./images/Greg.jpg" />
           <br />
